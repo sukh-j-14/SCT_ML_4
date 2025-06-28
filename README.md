@@ -28,7 +28,7 @@ The project uses the **Hand Gesture Recognition Database** which contains:
   - Each gesture folder contains ~200 PNG image frames
   - Total: ~20,000 images
 
-**Dataset Source**: [Leap Gesture Recognition Dataset on Kaggle](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
+**Dataset Source**: [Hand Gesture Recognition Database on Kaggle](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
 
 ## 🏗️ Architecture
 
@@ -84,8 +84,8 @@ Input Layer: (64, 64, 3) RGB images
    ```
 
 3. **Download the dataset** (if not included):
-   - Download from [Kaggle Dataset](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
-   
+   - Download from [Hand Gesture Recognition Database : Kaggle Dataset](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
+
 
 ## 📖 Usage
 
@@ -208,7 +208,7 @@ This project was developed as part of a machine learning course focusing on comp
 
 ## 🙏 Acknowledgments
 
-- **Dataset Source**: [Leap Gesture Recognition Dataset](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
+- **Dataset Source**: [Hand Gesture Recognition Database](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
 - **Repository**: [GitHub Repository](https://github.com/sukh-j-14/SCT_ML_4)
 - **Framework**: TensorFlow/Keras
 - **Computer Vision**: OpenCV
