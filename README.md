@@ -85,8 +85,7 @@ Input Layer: (64, 64, 3) RGB images
 
 3. **Download the dataset** (if not included):
    - Download from [Kaggle Dataset](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
-   - Extract and place in the `leapGestRecog/` directory
-   - Ensure the folder structure matches the expected format
+   
 
 ## 📖 Usage
 
