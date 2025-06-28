@@ -216,4 +216,4 @@ This project was developed as part of a machine learning course focusing on comp
 
 ---
 
-**Note**: This model is trained on a specific dataset and may require retraining or fine-tuning for different use cases or environments. 
+**Note**: This model is trained on this specific dataset and may require retraining or fine-tuning for different use cases or environments. 
